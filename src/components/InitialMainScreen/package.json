@@ -1,0 +1,5 @@
+{
+  "name": "InitialMainScreen",
+  "main": "./InitialMainScreen.tsx",
+  "version": "1.0.0"
+}
